@@ -1,0 +1,1 @@
+player.runScript("全服福利")

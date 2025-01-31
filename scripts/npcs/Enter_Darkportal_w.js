@@ -1,0 +1,1 @@
+//player.runScript("記憶試煉入口")

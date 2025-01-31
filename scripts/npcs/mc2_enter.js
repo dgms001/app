@@ -1,0 +1,1 @@
+player.runScript("嘉年華入口");

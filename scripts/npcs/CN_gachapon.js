@@ -1,0 +1,1 @@
+player.runScript("金豬抽獎")

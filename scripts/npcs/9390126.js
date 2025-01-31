@@ -1,0 +1,1 @@
+player.runScript("giantboss_accept");

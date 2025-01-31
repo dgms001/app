@@ -1,0 +1,1 @@
+player.runScript("石頭剪刀布")

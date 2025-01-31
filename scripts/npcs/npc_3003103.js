@@ -1,0 +1,1 @@
+//player.runScript("泡點開關")

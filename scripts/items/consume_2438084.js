@@ -1,0 +1,1 @@
+player.runScript("打開紅包");

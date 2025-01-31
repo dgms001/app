@@ -1,0 +1,6 @@
+/**
+ *
+ *
+ */
+
+player.runScript("goDungeon");

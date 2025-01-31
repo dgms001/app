@@ -1,0 +1,1 @@
+player.runScript("雪崩逃生入口")

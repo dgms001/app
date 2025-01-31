@@ -1,0 +1,1 @@
+player.runScript("拍賣物品");

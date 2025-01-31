@@ -1,0 +1,1 @@
+player.runScript("will_enterGate")

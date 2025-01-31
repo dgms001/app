@@ -1,0 +1,1 @@
+player.runScript("lucid_accept_1");

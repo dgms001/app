@@ -1,0 +1,1 @@
+﻿player.runScript("靈魂拯救者入場");

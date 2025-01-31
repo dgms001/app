@@ -1,0 +1,1 @@
+player.runScript("ROLL入口")

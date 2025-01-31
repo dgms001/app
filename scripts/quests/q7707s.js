@@ -1,0 +1,7 @@
+/**
+ *
+ *
+ */
+
+player.checkFatigue();
+npc.completeQuest();

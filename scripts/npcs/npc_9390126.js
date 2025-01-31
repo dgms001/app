@@ -1,0 +1,1 @@
+player.runScript("收集掉落物");

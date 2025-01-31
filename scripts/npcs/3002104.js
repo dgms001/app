@@ -1,0 +1,1 @@
+player.runScript("字母排名");

@@ -1,0 +1,1 @@
+player.runScript("黃金蘋果");

@@ -1,0 +1,1 @@
+player.runScript("NV幣強化")

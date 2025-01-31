@@ -1,0 +1,6 @@
+/* global npc, player, map */
+
+
+
+
+

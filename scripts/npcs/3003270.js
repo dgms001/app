@@ -1,0 +1,1 @@
+player.runScript("露希妲進場");

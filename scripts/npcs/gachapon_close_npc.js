@@ -1,0 +1,1 @@
+player.runScript("獎池抽獎")

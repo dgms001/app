@@ -1,0 +1,2 @@
+exports = {};
+player.runNpc("slimeOut")

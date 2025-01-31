@@ -1,0 +1,1 @@
+player.runScript("blackmage_accept")

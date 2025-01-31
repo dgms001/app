@@ -1,0 +1,1 @@
+player.runScript("龍爭虎鬥入口")

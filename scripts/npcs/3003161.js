@@ -1,0 +1,1 @@
+player.runScript("球球島入場")

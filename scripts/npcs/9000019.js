@@ -1,0 +1,1 @@
+//player.runScript("猜拳")

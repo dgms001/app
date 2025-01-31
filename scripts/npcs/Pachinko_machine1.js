@@ -1,0 +1,6 @@
+/**
+ *
+ *
+ */
+
+player.openPachinko(true);

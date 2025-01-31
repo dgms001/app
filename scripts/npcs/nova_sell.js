@@ -1,0 +1,1 @@
+player.runScript("神祕商人NPC")
