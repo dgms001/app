@@ -1,1 +1,0 @@
-player.runScript("透過玩具跳跳獎勵")

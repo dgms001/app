@@ -1,2 +1,0 @@
-player.checkFatigue();
-npc.completeQuest();

@@ -1,1 +1,0 @@
-player.runScript("金豬十連抽")

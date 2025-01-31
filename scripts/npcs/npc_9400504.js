@@ -1,1 +1,0 @@
-player.runScript("出生地圖npc");

@@ -1,1 +1,0 @@
-player.runScript("爆率測試")

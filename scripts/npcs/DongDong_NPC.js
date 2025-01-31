@@ -1,1 +1,0 @@
-player.runScript("../expands/充值連結");

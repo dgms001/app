@@ -1,1 +1,0 @@
-player.runScript("時光飛速區");

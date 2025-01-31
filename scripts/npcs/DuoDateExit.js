@@ -1,1 +1,0 @@
-player.runScript("婚禮一條龍")

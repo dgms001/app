@@ -1,1 +1,0 @@
-player.completeQuest(64693, 0);

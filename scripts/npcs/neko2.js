@@ -1,1 +1,0 @@
-player.runScript("回收");

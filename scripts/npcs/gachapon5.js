@@ -1,1 +1,0 @@
-//player.runScript("材料十連抽")

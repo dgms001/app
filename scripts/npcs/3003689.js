@@ -1,1 +1,0 @@
-player.runScript("dusk_accept")

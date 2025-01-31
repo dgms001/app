@@ -1,1 +1,0 @@
-npc.say(""+player.getIntQuestRecordEx(16700, "count")+"");

@@ -1,1 +1,0 @@
-player.runScript("強化回真");

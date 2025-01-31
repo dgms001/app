@@ -1,1 +1,0 @@
-player.runScript("組隊一條龍")

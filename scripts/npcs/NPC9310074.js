@@ -1,1 +1,0 @@
-player.runScript("福利中心")

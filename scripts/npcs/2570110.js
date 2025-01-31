@@ -1,1 +1,0 @@
-player.runScript("dunkel_accept")

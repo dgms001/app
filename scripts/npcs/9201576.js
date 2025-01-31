@@ -1,1 +1,0 @@
-player.runScript("航海入口")

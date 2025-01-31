@@ -1,1 +1,0 @@
-player.runScript("森林副本入口")

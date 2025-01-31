@@ -1,1 +1,0 @@
-player.runScript("自選點裝");//未

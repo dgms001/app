@@ -1,1 +1,0 @@
-//player.runScript("透過公園跳跳獎勵")

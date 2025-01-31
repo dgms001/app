@@ -1,1 +1,0 @@
-player.runScript("roll調和入口")

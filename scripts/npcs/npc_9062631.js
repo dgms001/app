@@ -1,1 +1,0 @@
-player.runScript("新手獎勵");

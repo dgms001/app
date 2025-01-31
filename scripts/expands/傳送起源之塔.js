@@ -1,1 +1,0 @@
-﻿player.changeMap(992000000);

@@ -1,1 +1,0 @@
-player.runScript("次元入侵入口")

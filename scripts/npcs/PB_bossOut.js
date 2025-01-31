@@ -1,1 +1,0 @@
-player.runScript("../expands/百寶箱");

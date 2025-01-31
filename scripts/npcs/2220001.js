@@ -1,1 +1,0 @@
-player.runScript("無限火力入口")

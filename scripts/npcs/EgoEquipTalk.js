@@ -1,1 +1,0 @@
-player.runScript("與精靈的對話");

@@ -1,1 +1,0 @@
-player.runScript("控制之神獎勵")

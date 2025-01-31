@@ -1,1 +1,0 @@
-player.runScript("點裝自選")

@@ -1,1 +1,0 @@
-player.runScript("抽獎系統")

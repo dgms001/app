@@ -1,1 +1,0 @@
-﻿player.modifyHonor(10000)

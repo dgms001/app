@@ -1,1 +1,0 @@
-player.runScript("boss_fairy");

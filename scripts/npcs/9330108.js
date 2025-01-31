@@ -1,1 +1,0 @@
-player.runScript("釣魚開關")

@@ -1,6 +1,0 @@
-/**
- *
- *
- */
-
-player.openPachinko(false);

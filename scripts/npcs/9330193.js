@@ -1,1 +1,0 @@
-player.runScript("高校圖騰")

@@ -1,1 +1,0 @@
-player.runScript("隨臉型");

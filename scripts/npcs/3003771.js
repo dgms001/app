@@ -1,1 +1,0 @@
-player.runScript("jinhillah_accept")
